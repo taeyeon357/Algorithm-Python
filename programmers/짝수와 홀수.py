@@ -7,6 +7,6 @@ def solution(num):
         answer = 'Odd'
     return answer
 
-#테스트 케이스
+#testcase
 print(solution(3))
 print(solution(4))

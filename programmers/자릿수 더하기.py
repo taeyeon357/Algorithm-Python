@@ -9,5 +9,6 @@ def solution(n):
     return answer
 
 
+#testcase
 print(solution(123))
 print(solution(987))

@@ -6,5 +6,7 @@ def solution(arr):
 arr1 = [1,2,3,4]
 arr2 = [5,5]
 
+
+#testcase
 print(solution(arr1))
 print(solution(arr2))
